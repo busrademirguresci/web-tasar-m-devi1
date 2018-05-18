@@ -1,0 +1,174 @@
+.arkaplan {
+	background-color:#f7ddfa
+}
+.logo {
+	height:150px;
+	width:100px;
+	padding-left:110px;
+	margin-top:20px;
+}
+#menu ul{
+	list-style-type:none;
+	color:black;
+	font-family:Arial, Sans-serif;
+    
+}
+#menu ul li{
+	float:left;
+	padding:15px;
+	padding-left:55px;
+	position: relative; top:-10px;	
+}
+#menu{
+	background-color:white;
+	width:1024px;
+	height:50px;
+	margin:0 auto;
+	font-weight:bold;
+	position: relative; top:-100px;
+}
+#menu ul li :hover{
+	background-color:white	
+
+}
+#menu ul li a:hover{
+	color:#e44a78;
+}
+#menu {
+	border-style: solid;
+    border-width: 2px;
+    border-color: black;
+	
+}
+#en {
+	color:purple;
+}
+#foto {
+	width:480px;
+	height:480px;
+	padding-left:110px;
+	position: relative; top:-80px;
+	color: purple;
+}
+#hakkımızda {
+	width:400px;
+	height:275px;
+	padding-left:600px;
+	position: relative; top:-430px;
+}
+#hakkımızda p{
+	font-size: 20px;
+	font-family: Arial, Sans-serif;
+}
+#hizmetler h2 {
+	width:1024px;
+	height:100%;
+	position: relative;top:-280px;
+	margin-left:450px;
+	font-family: Arial, Sans-serif;
+	font-size:40px;
+}
+#resim1{
+	width:300px;
+	height:300px;
+	padding-left:10px;
+	position:relative; top:-260px;
+	
+}
+#dogumgunu {
+	width:480px;
+	height:375px;
+	padding-left:500px;
+	position:relative;top:-580px;
+}
+
+#resim2{
+	width:300px;
+	height:200px;
+	padding-left:10px;
+	position:relative; top:-690px;
+}
+#resim2 img {
+	width:300px;
+	height:200px;
+	padding-left:1px;
+}
+#kurumsal{
+	width:480px;
+	height:375px;
+	padding-left:500px;
+	position:relative;top:-890px;
+}
+#resim3{
+	width:300px;
+	height:200px;
+	padding-left:10px;
+	position:relative; top:-990px;
+}
+#resim3 img{
+	width:300px;
+	height:200px;
+	padding-left:1px;
+}
+#dugun{
+	width:480px;
+	height:375px;
+	padding-left:500px;
+	position:relative;top:-215px;
+}
+#resim4{
+	width:300px;
+	height:200px;
+	padding-left:5px;
+	position:relative; top:-310px;
+}
+#resim4 img{
+	width:300px;
+	height:200px;
+	padding-left:-5px;
+}
+#kına{
+	width:480px;
+	height:375px;
+	padding-left:500px;
+	position:relative;top:-195px;
+}
+#resim5{
+	width:300px;
+	height:200px;
+	position: absolute; right:550px;
+	position:relative; top:110px;
+}
+#resim5 img{
+	width:300px;
+	height:200px;
+	padding-left:50px;
+}
+#bekarlık{
+	width:480px;
+	height:375px;
+	padding-left:10px;
+	position:relative;top:-95px;
+}
+#footer{
+	width: 100%;
+	height:100px;
+	position:absolute; right:550px;
+	position:relative; top:30px;
+}
+.iletisim{
+	position:relative; top:-290px;
+	padding-left:90px;
+}
+.social{
+	width:100%;
+	height:100px;
+	position:relative; top:320px;
+	padding-left:120px;
+}
+.facebook{
+	width:30px;
+	height:30px;
+	position:relative; top:-320px;
+	padding-left:50px;
+}
